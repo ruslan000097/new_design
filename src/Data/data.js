@@ -1,4 +1,4 @@
-const HEADER = "Nixalar";
+const HEADER = "ASUS";
 
 const NAVBAR_DATA = [
   { id: 1, url: "/", label: "Home" },
@@ -8,11 +8,11 @@ const NAVBAR_DATA = [
   { id: 5, url: "#footer", label: "Contacts" }
 ];
 const BANNER_DATA = {
-  HEADING: "Go digital with nixalar",
+  HEADING: "Go digital with Asus",
   DECRIPTION:
-    "Nixalar can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
+    "Asus can help you skyrocket the ROI of your marketing campaign without having to spend tons of money or time to assemble an in-house team.",
   TUTORIAL_URL:
-    "https://www.thinkwithgoogle.com/intl/en-gb/marketing-resources/programmatic/google-digital-academy/",
+    "https://www.youtube.com/?hl=ru",
   WATCH_TUTORIAL: "Watch Tutorials"
 };
 const SERVICE_DATA = {
@@ -20,19 +20,19 @@ const SERVICE_DATA = {
   ALL_SERVICES: "All Services",
   SERVICE_LIST: [
     {
-      LABEL: "Search Engine Optimisation",
+      LABEL: "Getting an order from a customer",
       DESCRIPTION:
         "To customise the content, technical functionality and scope of your website so that your pages show for a specific set of keyword at the top of a search engine list. In the end, the goal is to attract traffic to your website when they are searching for goods, services or business-related information.",
       URL: "images/service1.png"
     },
     {
-      LABEL: "Content Marketing Strategy",
+      LABEL: "Full fulfillment of the received order",
       DESCRIPTION:
         "It is tough but well worth the effort to create clever material that is not promotional in nature, but rather educates and inspires. It lets them see you as a reliable source of information by delivering content that is meaningful to your audience.",
       URL: "images/service2.png"
     },
     {
-      LABEL: "Develop Social Media Strategy",
+      LABEL: " delivery of the order to the customer",
       DESCRIPTION:
         "Many People rely on social networks to discover, research, and educate themselves about a brand before engaging with that organization. The more your audience wants to engage with your content, the more likely it is that they will want to share it.",
       URL: "images/service3.png"
@@ -92,9 +92,9 @@ const FOOTER_DATA = {
     "We are typically focused on result-based maketing in the digital world. Also, we evaluate your brand’s needs and develop a powerful strategy that maximizes profits.",
   CONTACT_DETAILS: {
     HEADING: "Contact us",
-    ADDRESS: "La trobe street docklands, Melbourne",
-    MOBILE: "+1 61234567890",
-    EMAIL: "nixalar@gmail.com"
+    ADDRESS: "Uzbekistan, Tashkent",
+    MOBILE: "+998995484633",
+    EMAIL: "asus@gmail.com"
   },
   SUBSCRIBE_NEWSLETTER: "Subscribe newsletter",
   SUBSCRIBE: "Subscribe"
